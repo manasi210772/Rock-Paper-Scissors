@@ -5,7 +5,7 @@ The user plays against the computer, and the game updates scores and displays re
 
 ## Live Demo  
 **Play the Game Here:**  
-https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/
+[Rock Paper Scissors](https://manasi210772.github.io/Rock-Paper-Scissors/)
 
 
 
@@ -22,7 +22,6 @@ https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/
 - Live score updates  
 - Clean and responsive UI  
 
----
 
 ## Technologies Used
 - **HTML5**
