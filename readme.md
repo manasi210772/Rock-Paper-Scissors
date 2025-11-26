@@ -12,7 +12,7 @@ https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/
 
 ## Game UI
 
-![Game Screenshot](./screenshot.png)
+![Game Screenshot](./Screenshot.png)
 
 
 ## Features
